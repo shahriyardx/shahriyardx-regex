@@ -1,0 +1,6 @@
+{
+  "name": "@shahriyardx/regex",
+  "description": "Checking string with regex made easy",
+  "version": "0.1.5",
+  "exports": "./src/index.ts"
+}

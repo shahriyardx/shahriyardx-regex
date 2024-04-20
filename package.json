@@ -1,0 +1,16 @@
+{
+  "name": "shahriyardx_regex",
+  "description": "Checking string with regex made easy",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@biomejs/biome": "1.7.0",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@shahriyardx/regex": "npm:@jsr/shahriyardx__regex"
+  }
+}
